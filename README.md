@@ -1,6 +1,6 @@
-## hi i'm jason
+## hi i'm jason 👾
 
-check out my work, projects, and other things i've built 👾
+check out my work, projects, and other things i've built
 
 <!--
 **JasonLai150/JasonLai150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
